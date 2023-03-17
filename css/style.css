@@ -27,6 +27,10 @@
 h2{
     text-align: center;
 }
+.video{
+    width:560px;
+    margin: 0 auto;
+}
 
 @keyframes lado1 {
         from{
