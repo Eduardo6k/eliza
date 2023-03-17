@@ -103,5 +103,13 @@ h2{
         h2{
             font-size: 1rem;
         }
+        .video{
+            background: blue;
+            width: 300px;
+            margin: 0 auto;
+        }
+        iframe{
+            width:300px;
+        }
      }
 
